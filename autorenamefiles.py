@@ -1,6 +1,6 @@
 import os
 
-os.chdir('E:/F.R.I.E.N.D.S/Season 3')
+os.chdir('Your Files Path Goes Here')
 
 for f in os.listdir():
     file_name, file_ext = os.path.splitext(f)
